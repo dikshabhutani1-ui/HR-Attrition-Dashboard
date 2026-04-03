@@ -57,11 +57,6 @@ This solution can be used by HR teams and business leaders to:
 
 ---
 
-## 🔗 Live Dashboard
-[View Interactive Dashboard](PASTE-YOUR-TABLEAU-LINK-HERE)
-
----
-
 ## 📁 Project Structure
 
 HR-Attrition-Dashboard  
